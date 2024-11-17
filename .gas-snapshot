@@ -1,0 +1,8 @@
+FundMEtest:testAddressFunderToArrays() (gas: 100624)
+FundMEtest:testFUndFail() (gas: 23023)
+FundMEtest:testFundUpdatesfund() (gas: 100471)
+FundMEtest:testMInimun_is5() (gas: 8399)
+FundMEtest:testOnlyowner() (gas: 102597)
+FundMEtest:testOwnerisSender() (gas: 10759)
+FundMEtest:testVersion() (gas: 13599)
+FundMEtest:testwithdrawfrommultiplefunders() (gas: 490044)
